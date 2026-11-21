@@ -1,0 +1,6 @@
+{
+  "name": "Vault Gallery",
+  "description": "Private, modern Android gallery for photos, albums, videos, documents, and PDFs with App Lock, biometric security, and encrypted local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
